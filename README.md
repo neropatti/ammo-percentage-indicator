@@ -7,7 +7,7 @@ This is useful for making sure you are efficiently using your ammo, ideally reac
 
 Known issues:
 
- - Sentry gun ammo percentage is inaccurate (not a bug, it's a feature)
+ - Sentry gun ammo percentage is ~~inaccurate~~ un-intuitive
  - Sometimes the overlay won't load (should be fixed)
 
 Roadmap:
