@@ -146,6 +146,8 @@
 !/Content/Mods/ExampleLogicMod/ModActor.uasset
 !/Content/LogicMods.uasset
 
+!/Content/ammopercent/*
+
 # Ignore intermediate folders
 Intermediate/
 obj/
