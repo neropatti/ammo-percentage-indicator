@@ -7,15 +7,12 @@ This is useful for making sure you are efficiently using your ammo, ideally reac
 
 Known issues:
 
- - Sentry gun ammo percentage is inaccurate
- - Sometimes the overlay won't load
+ - Sentry gun ammo percentage is inaccurate (not a bug, it's a feature)
+ - Sometimes the overlay won't load (should be fixed)
 
 Roadmap:
 
- - Display grenade amount as percentage
  - Display nitra amount as amount of supplies and the amount needed for next one
- - Display driller C4 amount as percentage
- - Display driller drill fuel amount as percentage
  - Make the UI look nicer (Currently just white text at a static location, ew)
 
 
