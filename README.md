@@ -8,6 +8,7 @@ This is useful for making sure you are efficiently using your ammo, ideally reac
 Known issues:
 
  - Sentry gun ammo percentage is inaccurate
+ - Sometimes the overlay won't load
 
 Roadmap:
 
