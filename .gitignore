@@ -159,5 +159,3 @@ Saved/
 
 # Explcitly ignore Mac DS_Store files, regardless of where they are
 .DS_Store
-
-!/Content/GameElements/Resources/Veins/RES_VEIN_Nitra.uasset
