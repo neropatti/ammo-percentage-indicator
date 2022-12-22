@@ -12,10 +12,7 @@ Known issues:
 
 Roadmap:
 
- - Display nitra amount as amount of supplies and the amount needed for next one
  - Make the UI look nicer (Currently just white text at a static location, ew)
- - Refactor code (actually use functions and whatnot instead of warcrime-tier spaghetti)
-
 
 If you encounter any other issues, or have ideas for features, get in touch with me on the DRG modding discord: neropatti#5892
 
