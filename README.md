@@ -7,12 +7,8 @@ This is useful for making sure you are efficiently using your ammo, ideally reac
 
 Known issues:
 
- - Sentry gun ammo percentage is ~~inaccurate~~ un-intuitive
+ - Sentry gun ammo percentage is ~~inaccurate~~ ~~un-intuitive~~ NEEDS FIXING
  - Sometimes the overlay won't load (should be fixed)
-
-Roadmap:
-
- - Make the UI look nicer (Currently just white text at a static location, ew)
 
 If you encounter any other issues, or have ideas for features, get in touch with me on the DRG modding discord: neropatti#5892
 
