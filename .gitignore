@@ -147,6 +147,7 @@
 !/Content/LogicMods.uasset
 
 !/Content/ammopercent/*
+!/Content/ammopercent/modhub_interface/*
 
 # Ignore intermediate folders
 Intermediate/
