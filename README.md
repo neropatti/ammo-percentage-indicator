@@ -1,6 +1,6 @@
-# Ammo percentage overlay
+# Ammo percentage indicator
 
-Ammo percentage overlay displays the currently equipped weapon's ammo as a percentage on the screen.
+Ammo percentage indicator displays the currently equipped weapon's ammo as a percentage on the screen.
 This is useful for making sure you are efficiently using your ammo, ideally reaching that 50% mark on everything before taking a resupply cassette.
 
 [Live mod](https://mod.io/g/drg/m/ammo-percentage-indicator)
