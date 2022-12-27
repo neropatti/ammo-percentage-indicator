@@ -146,8 +146,15 @@
 !/Content/Mods/ExampleLogicMod/ModActor.uasset
 !/Content/LogicMods.uasset
 
+# Mod
 !/Content/ammopercent/*
 !/Content/ammopercent/modhub_interface/*
+!/Content/ammopercent/toucanint/*
+!/Content/_ModHub/*
+!/Content/Toucan/*
+!/Content/Toucan/structures/*
+
+/dakedo
 
 # Ignore intermediate folders
 Intermediate/

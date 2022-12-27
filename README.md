@@ -5,6 +5,10 @@ This is useful for making sure you are efficiently using your ammo, ideally reac
 
 [Live mod](https://mod.io/g/drg/m/ammo-percentage-indicator)
 
+## Settings
+
+You can use either [toucan](https://mod.io/g/drg/m/toucan) or [modhub](https://mod.io/g/drg/m/mod-hub) to edit your settings
+
 ---------------------------------
 
 ## Known issues
