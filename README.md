@@ -1,13 +1,20 @@
 # Ammo percentage indicator
 
-Ammo percentage indicator displays the currently equipped weapon's ammo as a percentage on the screen.
 This is useful for making sure you are efficiently using your ammo, ideally reaching that 50% mark on everything before taking a resupply cassette.
 
 [Live mod](https://mod.io/g/drg/m/ammo-percentage-indicator)
 
 ## Settings
 
-You can use either [toucan](https://mod.io/g/drg/m/toucan) or [modhub](https://mod.io/g/drg/m/mod-hub) to edit your settings
+You can use either [toucan](https://mod.io/g/drg/m/toucan) or [modhub](https://mod.io/g/drg/m/mod-hub) to edit your settings, which are:
+
+- % color indication
+  - none
+  - static
+  - blinking
+  - gradient
+- Grenade /
+- Grenade / color indication
 
 ---------------------------------
 
@@ -17,8 +24,8 @@ You can use either [toucan](https://mod.io/g/drg/m/toucan) or [modhub](https://m
 
 ## Roadmap
 
-- Grenade count stuff
 - Text colour stuff
+- Movable %?
 
 ## Notes for modders
 
