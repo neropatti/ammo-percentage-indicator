@@ -2,6 +2,10 @@
 
 ## Creaper
 
+ - Finish total %
+ - Ugh, color picker.
+ - What % the color changes
+
 ## Nero
 
  - Test downloading fresh copy of project and does it work etc XDXDXD (you wanted this :\)
