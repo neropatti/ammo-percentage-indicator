@@ -2,9 +2,7 @@
 
 ## Creaper
 
- - Finish total %
- - Ugh, color picker.
- - What % the color changes
+ - ~~Ugh, color picker.~~
 
 ## Nero
 
