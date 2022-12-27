@@ -1,8 +1,0 @@
- - Probably should not try to create UI in space rig (low priority)
- - Laser pointer distance indicator is wrong
- - Static red does not work
- - Toggling grenade slash does not work
- - Color options (no/static/pulsing) should be in a combo box
-
- - Test downloading fresh copy of project and does it work etc XDXDXD
- - List all the external resources needed if they are missing
