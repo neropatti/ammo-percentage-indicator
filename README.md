@@ -15,6 +15,7 @@ You can use either [toucan](https://mod.io/g/drg/m/toucan) or [modhub](https://m
   - gradient
 - Grenade /
 - Grenade / color indication
+- In hud
 
 ---------------------------------
 
