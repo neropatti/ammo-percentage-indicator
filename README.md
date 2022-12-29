@@ -12,10 +12,18 @@ You can use either [toucan](https://mod.io/g/drg/m/toucan) or [modhub](https://m
   - none
   - static
   - blinking
+  - blinking dynamic
+    - Speed changes based on how low the % is
   - gradient
 - Grenade /
 - Grenade / color indication
-- In hud
+- total ammo %
+- in hud %
+- "in the red" %
+- Normal % color
+  - Default: 0.5 0.5 0.3
+- Low % color
+  - Default: 1 .3 0
 
 ---------------------------------
 
