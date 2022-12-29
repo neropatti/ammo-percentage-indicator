@@ -13,7 +13,7 @@ You can use either [toucan](https://mod.io/g/drg/m/toucan) or [modhub](https://m
   - static
   - blinking
   - blinking dynamic
-    - Speed changes based on how low the % is
+    - Speed changes based on how low the % is and "in the red" %
   - gradient
 - Grenade /
 - Grenade / color indication
@@ -29,12 +29,7 @@ You can use either [toucan](https://mod.io/g/drg/m/toucan) or [modhub](https://m
 
 ## Known issues
 
-- Sentry gun ammo percentage
-
 ## Roadmap
-
-- Text colour stuff
-- Movable %?
 
 ## Notes for modders
 
@@ -42,6 +37,19 @@ If you are just looking to _use_ this mod, [get it from here](https://mod.io/g/d
 
 If you want to contribute, or make your own mod based on this, you need to use the asset reconstruction pack; [drive download](https://drive.google.com/file/d/1HL-z5I62FpY6l9Qt2QGnR8ZpHkHyfESQ/view?usp=sharing), [modding server](https://discord.gg/gUw32ayWGt), [channel message](https://discord.com/channels/676880716142739467/883791204930703360/998263940809232507)
 
-If you encounter any other issues, or have ideas for features, get in touch with me on the DRG modding discord: neropatti#5892
+If you encounter any other issues, have ideas for features, or want to contribute, get in touch with me on the DRG modding discord: neropatti#5892
 
-Also get in touch if you want to contribute to this mod :)
+## todo list
+
+### Creaper
+
+- Sleep
+
+### Nero
+
+- Test downloading fresh copy of project and does it work etc XDXDXD (you wanted this :\)
+  - List all the external resources needed if they are missing
+- Make new video with settings
+- Learn UE4 more
+- Also stylize the UI to be nice XDXDXD
+- Refactor all of Creapers work
