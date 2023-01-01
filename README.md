@@ -30,7 +30,7 @@ You can use either [toucan](https://mod.io/g/drg/m/toucan) or [modhub](https://m
 
 ## Known issues
 
-- None, I am perfect.
+- Resetting the colour to the default value does not get rid of the reset button on the first click
 
 ## Notes for modders
 
