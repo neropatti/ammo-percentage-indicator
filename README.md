@@ -43,7 +43,11 @@ If you encounter any other issues, have ideas for features, or want to contribut
 ### Creaper
 
 - Sleep
-- An animation showing how much you've WASTED on a resuply. Like a red shadow coming up behind the % showing how much
+- An animation showing how much you've WASTED on a resuply.
+  - Like a red shadow coming up behind the % showing how much
+- An animation for resupllying
+  - Spin?
+  - Opacity 0 => 1, like reset spin "cachink"
 
 ### Nero
 
