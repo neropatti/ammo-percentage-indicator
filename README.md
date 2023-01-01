@@ -1,6 +1,7 @@
-# Ammo percentage indicator
+# Ammo Percentage Indicator
 
-This is useful for making sure you are efficiently using your ammo, ideally reaching that 50% mark on everything before taking a resupply cassette.
+This is useful for making sure you are efficiently using your ammo,
+ideally reaching that 50% mark on everything before taking a resupply.
 
 [Live mod](https://mod.io/g/drg/m/ammo-percentage-indicator)
 
@@ -29,11 +30,9 @@ You can use either [toucan](https://mod.io/g/drg/m/toucan) or [modhub](https://m
 
 ## Known issues
 
-## Roadmap
+- None, I am perfect.
 
 ## Notes for modders
-
-If you are just looking to _use_ this mod, [get it from here](https://mod.io/g/drg/m/ammo-percentage-indicator).
 
 If you want to contribute, or make your own mod based on this, you need to use the asset reconstruction pack; [drive download](https://drive.google.com/file/d/1HL-z5I62FpY6l9Qt2QGnR8ZpHkHyfESQ/view?usp=sharing), [modding server](https://discord.gg/gUw32ayWGt), [channel message](https://discord.com/channels/676880716142739467/883791204930703360/998263940809232507)
 
@@ -44,6 +43,7 @@ If you encounter any other issues, have ideas for features, or want to contribut
 ### Creaper
 
 - Sleep
+- An animation showing how much you've WASTED on a resuply. Like a red shadow coming up behind the % showing how much
 
 ### Nero
 
