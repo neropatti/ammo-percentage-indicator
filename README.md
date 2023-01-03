@@ -14,7 +14,7 @@ You can use either ~~[toucan](https://mod.io/g/drg/m/toucan) or~~ [modhub](https
   - static
   - blinking
   - blinking dynamic
-    - Speed changes based on how low the % is and "in the red" %
+    - Speed changes based on how low the % is and "Switch % color at"
   - gradient
 - Grenade /
   - disabled
