@@ -41,8 +41,7 @@ You can use either ~~[toucan](https://mod.io/g/drg/m/toucan) or~~ [modhub](https
 
 ## Known issues
 
-- Resetting the colour to the default value does not get rid of the reset button on the first click
-  - I love ue4 :)
+- None, I am perfect
 
 ## Notes for modders
 
