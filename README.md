@@ -36,6 +36,7 @@ You can use either ~~[toucan](https://mod.io/g/drg/m/toucan) or~~ [modhub](https
 - Low % (color)
 - Sentry ammo color indication
   - based on "normal % (color)", "low % (color)" and "switch % color at"
+- Ring
 
 ---------------------------------
 
