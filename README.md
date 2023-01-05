@@ -49,6 +49,8 @@ If you want to contribute, or make your own mod based on this, you need to use t
 
 If you encounter any other issues, have ideas for features, or want to contribute, get in touch with me on the [DRG modding discord](https://discord.gg/gUw32ayWGt): neropatti#5892
 
+OR ALTERNATIVELY for issues, [just leave an issue here on github](https://github.com/neropatti/ammo-percentage-indicator/issues)!
+
 ## todo list
 
 ### Creaper
