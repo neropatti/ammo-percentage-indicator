@@ -7,38 +7,36 @@ ideally reaching that 50% mark on everything before taking a resupply.
 
 ## Settings
 
-You can use either ~~[toucan](https://mod.io/g/drg/m/toucan) or~~ [modhub](https://mod.io/g/drg/m/mod-hub) to edit your settings, which are:
+You can use [modhub](https://mod.io/g/drg/m/mod-hub) to edit your settings, which are:
 
 - % color indication
   - none
   - static
   - blinking
   - blinking dynamic
-    - Speed changes based on how low the % is and "Switch % color at"
-  - gradient
+    - Speed changes based on how low the % is and "Switch 
 - Grenade /
   - disabled
-  - static
+  - enabled
   - coloured
 - Display % for
   - current weapon
   - total ammo
-- Display location
+% color at
+  - gradient
+- In hud
   - disabled
   - integrated
-    - % is in the helmet hud
-  - floating
-    - Makes the % draggable
-  - integrated^2 WIP
-    - Replaces normal ammo counts with %
-  - integrated high WIP
-    - Moves the % above the normal count
+  - integrated^2
+  - integrated high
+- floating
 - Normal % (color)
-- Switch % color at
+- Color %
 - Low % (color)
 - Sentry ammo color indication
-  - based on "normal % (color)", "low % (color)" and "switch % color at"
 - Ring
+
+If you cant read, then you can hover over the settings to be able to read even less.
 
 ---------------------------------
 
@@ -49,7 +47,6 @@ You can use either ~~[toucan](https://mod.io/g/drg/m/toucan) or~~ [modhub](https
 ## Notes for modders
 
 If you want to contribute, or make your own mod based on this, you need to use the [asset reconstruction pack](https://drive.google.com/file/d/1HL-z5I62FpY6l9Qt2QGnR8ZpHkHyfESQ/view?usp=sharing) (can also be found on this [server](https://discord.gg/gUw32ayWGt) > [message](https://discord.com/channels/676880716142739467/883791204930703360/998263940809232507)).
-The project also includes the [modhub source files](https://github.com/DRG-Modding/ModHub).
 
 If you encounter any other issues, have ideas for features, or want to contribute, get in touch with me on the [DRG modding discord](https://discord.gg/gUw32ayWGt): neropatti#5892
 
@@ -57,16 +54,10 @@ OR ALTERNATIVELY for issues, [just leave an issue here on github](https://github
 
 ## todo list
 
-### Creaper
-
 - Sleep
 - An animation showing how much you've WASTED on a resuply.
   - Like a red shadow coming up behind the % showing how much
 - Add % into gun's display
-
-### Nero
-
 - Make new video showcasing settings
 - Learn UE4 more
 - Stylize the UI to be nice
-- Refactor all of Creapers work
