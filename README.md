@@ -26,7 +26,9 @@ You can use either ~~[toucan](https://mod.io/g/drg/m/toucan) or~~ [modhub](https
 - Display location
   - disabled
   - integrated
+    - % is in the helmet hud
   - floating
+    - Makes the % draggable
   - integrated^2 WIP
     - Replaces normal ammo counts with %
   - integrated high WIP
@@ -46,11 +48,12 @@ You can use either ~~[toucan](https://mod.io/g/drg/m/toucan) or~~ [modhub](https
 
 ## Notes for modders
 
-If you want to contribute, or make your own mod based on this, you need to use the asset reconstruction pack; [drive download](https://drive.google.com/file/d/1HL-z5I62FpY6l9Qt2QGnR8ZpHkHyfESQ/view?usp=sharing), [modding server](https://discord.gg/gUw32ayWGt), [channel message](https://discord.com/channels/676880716142739467/883791204930703360/998263940809232507)
+If you want to contribute, or make your own mod based on this, you need to use the [asset reconstruction pack](https://drive.google.com/file/d/1HL-z5I62FpY6l9Qt2QGnR8ZpHkHyfESQ/view?usp=sharing) (can also be found on this [server](https://discord.gg/gUw32ayWGt) > [message](https://discord.com/channels/676880716142739467/883791204930703360/998263940809232507)).
+The project also includes the [modhub source files](https://github.com/DRG-Modding/ModHub).
 
 If you encounter any other issues, have ideas for features, or want to contribute, get in touch with me on the [DRG modding discord](https://discord.gg/gUw32ayWGt): neropatti#5892
 
-OR ALTERNATIVELY for issues, [just leave an issue here on github](https://github.com/neropatti/ammo-percentage-indicator/issues)!
+OR ALTERNATIVELY for issues, [just leave an issue here on github](https://github.com/neropatti/ammo-percentage-indicator/issues/new)!
 
 ## todo list
 
@@ -63,8 +66,6 @@ OR ALTERNATIVELY for issues, [just leave an issue here on github](https://github
 
 ### Nero
 
-- Test downloading fresh copy of project and does it work etc
-  - List all the external resources needed if they are missing
 - Make new video showcasing settings
 - Learn UE4 more
 - Stylize the UI to be nice
