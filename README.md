@@ -20,8 +20,10 @@ You can use [modhub](https://mod.io/g/drg/m/mod-hub) to edit your settings, whic
   - enabled
   - coloured
 - Display % for
+  - disabled
   - current weapon
   - total ammo
+  - total ammo weighted
 % color at
   - gradient
 - In hud
@@ -30,11 +32,19 @@ You can use [modhub](https://mod.io/g/drg/m/mod-hub) to edit your settings, whic
   - integrated^2
   - integrated high
 - floating (f2 to enable mouse and to drag around)
+  - disabled
+  - current weapon
+  - total ammo
+  - total ammo weighted
 - Normal % (color)
 - Color %
 - Low % (color)
 - Sentry ammo color indication
 - Ring
+  - disabled
+  - current weapon
+  - total ammo
+  - total ammo weighted
 
 If you cant read, then you can hover over the settings to be able to read even less.
 
