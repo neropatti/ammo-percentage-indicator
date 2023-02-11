@@ -1,13 +1,42 @@
-# Notice
-
-The current state of the mod and blueprints is a mess, and I will have fun cleaning everything up later 😎
-
 # Ammo Percentage Indicator
 
 This is useful for making sure you are efficiently using your ammo,
 ideally reaching that 50% mark on everything before taking a resupply.
 
 [Live mod](https://mod.io/g/drg/m/ammo-percentage-indicator)
+
+## Settings
+
+You can use [modhub](https://mod.io/g/drg/m/mod-hub) to edit your settings, which are:
+
+- % color indication
+  - none
+  - static
+  - blinking
+  - blinking dynamic
+    - Speed changes based on how low the % is and "Switch 
+- Grenade /
+  - disabled
+  - enabled
+  - coloured
+- Display % for
+  - current weapon
+  - total ammo
+% color at
+  - gradient
+- In hud
+  - disabled
+  - integrated
+  - integrated^2
+  - integrated high
+- floating (f2 to enable mouse and to drag around)
+- Normal % (color)
+- Color %
+- Low % (color)
+- Sentry ammo color indication
+- Ring
+
+If you cant read, then you can hover over the settings to be able to read even less.
 
 ## Notes for modders
 
@@ -16,9 +45,3 @@ If you want to contribute, or make your own mod based on this, you need to use t
 If you encounter any other issues, have ideas for features, or want to contribute, get in touch with me on the [DRG modding discord](https://discord.gg/gUw32ayWGt): neropatti#5892
 
 OR ALTERNATIVELY for issues, [just leave an issue here on github](https://github.com/neropatti/ammo-percentage-indicator/issues/new)!
-
-## todo list
-
-- Clean up blueprints
-- Fix sentry ammo indicator
-- Fix indicator UI element not loading
