@@ -42,6 +42,8 @@ If you cant read, then you can hover over the settings to be able to read even l
 
 If you want to contribute, or make your own mod based on this, you need to use the [asset reconstruction pack](https://drive.google.com/file/d/1HL-z5I62FpY6l9Qt2QGnR8ZpHkHyfESQ/view?usp=sharing) (can also be found on this [server](https://discord.gg/gUw32ayWGt) > [message](https://discord.com/channels/676880716142739467/883791204930703360/998263940809232507)).
 
-If you encounter any other issues, have ideas for features, or want to contribute, get in touch with me on the [DRG modding discord](https://discord.gg/gUw32ayWGt): neropatti#5892
+If you get "unknown structure" errors, just validate the mod folder.
 
-OR ALTERNATIVELY for issues, [just leave an issue here on github](https://github.com/neropatti/ammo-percentage-indicator/issues/new)!
+If you find any issues or have ideas for features, [leave it on the github page](https://github.com/neropatti/ammo-percentage-indicator/issues/new) with the correct label.
+
+If you want to contribute, get in touch with me on the [DRG modding discord](https://discord.gg/gUw32ayWGt): neropatti#5892
