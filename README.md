@@ -12,3 +12,5 @@ Known issues:
 If you encounter any other issues, or have ideas for features, get in touch with me on the DRG modding discord: neropatti#5892
 
 Also get in touch if you want to contribute to this mod :)
+
+Live mod: https://mod.io/g/drg/m/ammo-percentage-indicator
