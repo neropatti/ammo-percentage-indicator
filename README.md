@@ -7,9 +7,9 @@ This is useful for making sure you are efficiently using your ammo, ideally reac
 
 Known issues:
 
- - Sometimes the overlay won't load
+ - None!
 
-If you encounter any other issues, or have ideas for features, get in touch with me on the DRG modding discord: neropatti#5892
+If you encounter any issues, or have ideas for features, get in touch with me on the DRG modding discord: neropatti#5892
 
 Also get in touch if you want to contribute to this mod :)
 
